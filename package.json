@@ -1,0 +1,24 @@
+{
+  "name": "@igor-guari/pi-skill-codebase-design",
+  "version": "1.0.0",
+  "description": "Shared vocabulary for designing deep modules. Use when the user wants to design or improve a module's interface, find de",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "codebase-design",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-codebase-design.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-codebase-design#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
